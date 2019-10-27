@@ -1,0 +1,30 @@
+{
+  "name": "web-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.io/lmbecina/web-portfolio",
+  "scripts": {
+      "test": "echo \"Error: no test specified\"&& exit 1",
+      "deploy": "gh-pages -d dist"
+  },
+  "author": "LM Becina",
+  "license": "ISC",
+  "dependencies": {
+      "grunt-sas": "^1.2.0",
+      "grunt-sass": "^3.0.2",
+      "node-sass": "^4.11.0",
+      "popper.js": "^1.14.6"
+  },
+  "devDependencies": {
+      "gh-pages": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmbecina/web-portfolio.git"
+  },
+  "description": "thesis",
+  "bugs": {
+    "url": "git+https://github.com/lmbecina/web-portfolio.git/issues"
+  },
+  "keywords": []
+}
